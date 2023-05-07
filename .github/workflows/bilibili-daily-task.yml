@@ -1,4 +1,4 @@
-name: BiliBili-Checkin
+name: BiliBili Checkin
 
 on:
   workflow_dispatch: # 手动触发
